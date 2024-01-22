@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # Hello, World! 👋
 
 I'm Daniel Yetwale, a passionate problem solver and tech enthusiast. Welcome to my digital haven, where I thrive on creative problem-solving and a commitment to lifelong learning.
