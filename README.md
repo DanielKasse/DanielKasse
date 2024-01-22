@@ -91,7 +91,7 @@ This project is built with HTML5, CSS, Bootstrap, JS, PHP, MySqli.
 
 ## Get in Touch
 
-- 📧 Email: [danielyetwale02.com](mailto:danielyetwale02@gmail.com)
+- 📧 Email: [danielyetwale02@gmail.com](mailto:danielyetwale02@gmail.com)
 - 📱 Phone: [+25192346781](tel:+251923467881)
 - 🌐 [Telegram](https://t.me/daniel_kasse)
 
